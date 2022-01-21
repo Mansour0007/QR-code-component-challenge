@@ -36,11 +36,11 @@ body {
   margin-bottom: 20px;
 }
 .wrapper h1 {
-  color: var(--dark-blue);
+  color: hsl(218, 44%, 22%);
   margin-bottom: 20px;
 }
 .wrapper p {
   padding: 0 4px;
   margin-bottom: 25px;
-  color: #222939;
+  color: var(--Grayish-blue);
 }
